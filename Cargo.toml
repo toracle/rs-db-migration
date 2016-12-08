@@ -1,0 +1,6 @@
+[package]
+name = "rs-sql-migration"
+version = "0.1.0"
+authors = ["Jeongsoo Park <toracle@gmail.com>"]
+
+[dependencies]
